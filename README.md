@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gapingbeaver.
-- 🌱 I’m currently learning ... mechanical engineering.
+- 🌱 I’m currently learning ...
 - 📫 How to reach me ... gapingbeaver1440@naver.com
 
 <!---
