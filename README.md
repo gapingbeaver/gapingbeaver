@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gapingbeaver.
-- 🌱 I’m currently learning ...
-- 📫 How to reach me ... gapingbeaver1440@naver.com
+- 🌱 I’m currently learning Java.
+- 📫 How to reach me gapingbeaver1440@naver.com
 
 ![gapingbeaver's GitHub stats](https://github-readme-stats.vercel.app/api?username=gapingbeaver&show_icons=true&theme=material-palenight)
 [![Solved.ac
