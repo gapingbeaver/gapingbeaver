@@ -7,7 +7,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hell_bent)](https://solved.ac/hell_bent)
 
-![gapingbeaver's leetcode](https://badges.peiyuan.ch/leetcode/gapingbeaver/solved?difficulty=all,easy,medium,hard)
+![gapingbeaver's leetcode](https://badges.peiyuan.ch/leetcode/gapingbeaver/solved?difficulty=all)
+![gapingbeaver's leetcode](https://badges.peiyuan.ch/leetcode/gapingbeaver/solved?difficulty=easy)
+![gapingbeaver's leetcode](https://badges.peiyuan.ch/leetcode/gapingbeaver/solved?difficulty=meidum)
+![gapingbeaver's leetcode](https://badges.peiyuan.ch/leetcode/gapingbeaver/solved?difficulty=hard)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gapingbeaver&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
