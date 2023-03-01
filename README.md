@@ -3,7 +3,6 @@
 - 📫 How to reach me ... gapingbeaver1440@naver.com
 
 ![gapingbeaver's GitHub stats](https://github-readme-stats.vercel.app/api?username=gapingbeaver&show_icons=true&theme=material-palenight)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hell_bent)](https://solved.ac/hell_bent)
 
