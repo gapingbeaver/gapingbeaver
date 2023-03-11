@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gapingbeaver.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me gapingbeaver1440@naver.com
 
 ![gapingbeaver's GitHub stats](https://github-readme-stats.vercel.app/api?username=gapingbeaver&show_icons=true&theme=material-palenight)
